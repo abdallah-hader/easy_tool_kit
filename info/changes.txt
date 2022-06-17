@@ -1,0 +1,46 @@
+ملاحظة, قمت في هذا الإصدار بإزالة محول mp3 to mp4, نظرًا لِكثرة المشاكل فيه, فسأُعيدها إلى البرنامج في حال وجدت الحلول المناسبة للمشاكل.
+* حل مشكلة تثبيت البرنامج على القرص c:, الآن أصبح بإمكانكم تثبيته بدون أن تواجهكم مشاكل.
+*تم إضافة أداة جديدة, يمكنكم من خلالها تنزيل إضافات nvda, يمكنكم الوصول لها بالضغط على nvda+shift+n, أو مِن قائمة أدوات, اختيار أداة تحميل إضافات nvda	ctrl+shift+n
+بعد الدخول على الأداة, ستظهر لنا قائمة تحتوي على الإضافات مِن موقع nvda
+https://addons.nvda-project.org
+ملاحظة, فقط الإضافات التي تدعم روابط مباشرة في التحميل متوفرة بالبرنامج.
+أما عن التفاصيل التي تخص إستخدام هذه الأداة.
+لتحميل إضافة يكفي الضغط عليها بمفتاح الإدخال enter, وسيبدأ بالتحميل, ويخبرك بنسبة التنزيل عن طريق شريط التقدم الموجود بالنافذة.
+أما عن مسار التنزيل, فهو الإفتراضي يكون بالمستندات, ويمكنكم تغيير المسار عن طريق الإعدادات/إعدادات أداة تنزيل إضافات nvda.
+بعد الوقوف على الإضافة يمكنكم الضغط على f1, لمعرفة معلومات عن الإضافة, الإصدار المطلوب مِن nvda لتشغيل الإضافة, وكذالك الوصف الخاص بالإضافة.
+ملاحظة, قد يكون رقم الإصدار المطلوب مِن nvda, غير دقيق في المستقبل, وذالك لأن الوصف والإصدار بيانات مخزنة, أي تغييرها يتم بشكل يدويًا, أما إصدار الإضافة فهو محدث دائمًا, أي دائمًا يقم بتنزيل آخِر إصدار متوفر مِنها.
+هنالك بعض الخيارات في قائمة السياق بعد الوقوف على الإضافة وهي:
+فتح: لِفتح الإضافة, يظهر هذا الخيار في حال كانت الإضافة تم تنزيلها بالفعل.
+إظهار في المجلد: لِفتح المجلد الذي يحتوي على الإضافة, وينقل المؤشر للإضافة مباشرتًا, يظهر هذا الخيار في حال كانت الإضافة تم تنزيلها بالفعل.
+فتح بالمتصفح: لِفتح الإضافة بمتصفح الويب, أَي يذهب إلى صفحى الإضافة مِن موقع إضافات nvda.
+نسخ رابط التنزيل: لِنسخ رابط مباشر لِتنزيل الإضافة للحافِظة.
+نسخ رابط صفحة الإضافة: لِنسخ رابط صفحى الإضافة على موقع إضافات nvda.
+هذا كل ما يتعلق بِهذه الأداة.
+*إضافة أداة جديدة لتوليد كلمات المرور العشوائية.
+ويمكنكم الوصول لها مِن خلال الضغط على control+shift+p, أو مِن قائمة أدوات نختر مولد كلمة سر عشوائية	ctrl+shift+p.
+أما عن طريقة إستخدامِها فهو سهل للغاية, بعد الدخول لها, نقم بتحديد طول كلمة المرور المُراد توليدها, 4/170
+ونحدد على الخيارات المُرادة, كتضمين الأحرف الكبيرة, الرموز, والأرقام, ثم نضغط توليد, سينقلنا إلى حقل التحرير الذي يحتوي على كلمة المرور, يمكننا نسخها بتحديدها control+a ثم نسخها control+c.
+*في ملف دليل الإستخدام, والذي يمكن الوصول له بالضغط على f1, تم إضافة التغييرات التي تَتِم على تحديثات البرنامج, ويمكن التنقل بين الإصدارات بالضغط على رقم 4.	Note, in this version I removed the mp3 to mp4 converter, due to the many problems with it, I will return it to the program if I find the appropriate solutions to the problems.
+As for the new modifications / additions.
+* Solve the problem of installing the program on disk C:, now you can install it without having any problems.
+* A new tool has been added, through which you can download nvda add-ons, you can access it by pressing nvda+shift+n, or from the Tools menu, choose the download nvda addons tools ctrl+shift+n
+After entering the tool, a list of addons from the nvda site will appear
+https://addons.nvda-project.org
+Note, only addons that support direct download links are available in the program.
+As for the details of using this tool.
+To download an addon, just press enter, and it will start the download, and tell you the download percentage via the progress bar in the window.
+As for the download path, the default is in Documents, and you can change the path in settings/download nvda addons tool settings
+After identifying the addon, you can press F1, to find out information about the addon, the required version of NVDA to run the add-on, as well as the description of the addon.
+Note, the required NVDA version number may be inaccurate in the future, because the description and version are stored data, i.e. manually changed, and the addons version is always up-to-date, i.e. always download the latest available version.
+There are some options in the context menu after stopping the addition, which are:
+Open: To open the addon, this option appears if the addon has already been downloaded.
+Show in folder: To open the folder that contains the addon and move the cursor to the addon directly, this option appears if the addon has already been downloaded.
+Open with browser: To open the addon in a web browser, that is, go to the addon page of the nvda addons website.
+Copy Download Link: To copy a direct link to download the addon to clipboard.
+Copy addon Page Link: To copy the addon page url on the nvda addons website.
+That's all about this tool.
+*Added a new tool, random password generator.
+You can access it by pressing control+shift+p, or from the Tools menu select ctrl+shift+p random password generator.
+As for how to use it, it is very easy, after entering it, we specify the length of the password to be generated, 4/170
+We specify the desired options, such as including capital letters, symbols, and numbers, then press generate, it will take us to the edit field that contains the password, we can copy it by selecting control+a and then copying control+c.
+* In the user guide file, which can be accessed by pressing f1, the changes made to program updates have been added, and you can move between versions by pressing number. 4.

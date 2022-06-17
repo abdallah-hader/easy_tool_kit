@@ -1,0 +1,8 @@
+wxpython
+weathercom
+requests
+urllib
+deep_translator
+wikipedia
+accessible-output2
+pyperclip
